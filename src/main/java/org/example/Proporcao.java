@@ -1,2 +1,7 @@
-package org.example;public interface Proporcao {
+package org.example;
+
+public interface Proporcao {
+
+    float tempoTrabalho();
+    String proporcaoRisco();
 }
